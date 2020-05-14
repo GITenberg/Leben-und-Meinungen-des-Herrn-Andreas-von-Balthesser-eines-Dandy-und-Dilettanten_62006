@@ -1,0 +1,28 @@
+_repo: Leben-und-Meinungen-des-Herrn-Andreas-von-Balthesser-eines-Dandy-und-Dilettanten_62006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schaukal, Richard von
+    alias: Von Schaukal, Richard
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '51725'
+    url: http://www.gutenberg.org/2009/agents/51725
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Richard_von_Schaukal
+    - https://de.wikipedia.org/wiki/Richard_von_Schaukal
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62006'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Austrian fiction'
+- GITenberg
+title: Leben und Meinungen des Herrn Andreas von Balthesser, eines Dandy und Dilettanten
+url: http://www.gutenberg.org/ebooks/62006
